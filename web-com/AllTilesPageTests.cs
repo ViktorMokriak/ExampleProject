@@ -14,6 +14,7 @@ namespace web_com
     public class AllTilesPageTests : TestBase
 
     {
+        // New Comment
         [Test]
         public void CheckAllTilesPage()
         {
