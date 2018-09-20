@@ -11,6 +11,7 @@ using OpenQA.Selenium.Support.UI;
 
 namespace web_com
 {
+    // Test Class 
     [TestFixture]
     public abstract class TestBase
     {
